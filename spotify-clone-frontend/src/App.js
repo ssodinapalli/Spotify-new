@@ -1,19 +1,16 @@
-import React from 'react';
-import Landingpage from './Mycomponents/Landingpage.js';
 
+import './App.css';
+
+import Navbar from "./Mycomponents/Navbar/Navbar";
+
+import Home from "./Mycomponents/Home/Home";
 function App() {
   return (
     <>
-      <Landingpage></Landingpage>
+    <Navbar/>
+    <Home/>
+      
     </>
-
-
-
-
-
-
-
-
   );
 }
 

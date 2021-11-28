@@ -1,0 +1,15 @@
+/* Home */
+
+#home{
+    background-color: rgb(32, 216, 176);
+    background: linear-gradient(90deg,rgb(75, 228, 190) 50%,rgb(80, 214, 214) 100%);
+    min-height: 700px;
+} 
+
+/* .navbar{
+        background-color: rgb(32, 179, 216);
+
+        background: linear-gradient(90deg,rgb(0, 0, 0) 50%,rgb(17, 99, 99) 100%);
+
+
+} */
