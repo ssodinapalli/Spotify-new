@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light  shadow">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
         <div class="container" id="navbar">
           <a class="navbar-brand fw-bolder fs-4 " href="/">
             Spotify
